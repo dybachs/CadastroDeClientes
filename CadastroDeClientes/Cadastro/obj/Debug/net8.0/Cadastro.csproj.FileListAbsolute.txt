@@ -1,0 +1,14 @@
+C:\Users\dybac\OneDrive\Documentos\Back-end\CadastroDeClientes\Cadastro\bin\Debug\net8.0\Cadastro.exe
+C:\Users\dybac\OneDrive\Documentos\Back-end\CadastroDeClientes\Cadastro\bin\Debug\net8.0\Cadastro.deps.json
+C:\Users\dybac\OneDrive\Documentos\Back-end\CadastroDeClientes\Cadastro\bin\Debug\net8.0\Cadastro.runtimeconfig.json
+C:\Users\dybac\OneDrive\Documentos\Back-end\CadastroDeClientes\Cadastro\bin\Debug\net8.0\Cadastro.dll
+C:\Users\dybac\OneDrive\Documentos\Back-end\CadastroDeClientes\Cadastro\bin\Debug\net8.0\Cadastro.pdb
+C:\Users\dybac\OneDrive\Documentos\Back-end\CadastroDeClientes\Cadastro\obj\Debug\net8.0\Cadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dybac\OneDrive\Documentos\Back-end\CadastroDeClientes\Cadastro\obj\Debug\net8.0\Cadastro.AssemblyInfoInputs.cache
+C:\Users\dybac\OneDrive\Documentos\Back-end\CadastroDeClientes\Cadastro\obj\Debug\net8.0\Cadastro.AssemblyInfo.cs
+C:\Users\dybac\OneDrive\Documentos\Back-end\CadastroDeClientes\Cadastro\obj\Debug\net8.0\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\dybac\OneDrive\Documentos\Back-end\CadastroDeClientes\Cadastro\obj\Debug\net8.0\Cadastro.dll
+C:\Users\dybac\OneDrive\Documentos\Back-end\CadastroDeClientes\Cadastro\obj\Debug\net8.0\refint\Cadastro.dll
+C:\Users\dybac\OneDrive\Documentos\Back-end\CadastroDeClientes\Cadastro\obj\Debug\net8.0\Cadastro.pdb
+C:\Users\dybac\OneDrive\Documentos\Back-end\CadastroDeClientes\Cadastro\obj\Debug\net8.0\Cadastro.genruntimeconfig.cache
+C:\Users\dybac\OneDrive\Documentos\Back-end\CadastroDeClientes\Cadastro\obj\Debug\net8.0\ref\Cadastro.dll
